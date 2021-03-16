@@ -33,5 +33,5 @@ $ java -jar coinscombination.api-1.0.jar
 
 
 Open in your browser the below url
-[http://localhost:8080/coins](http://localhost:8080/coins) it will shows a list with preloaded coins.
+[http://localhost:8080/coins](http://localhost:8080/coins) it will shows a json result with a list of preloaded coins.
 
