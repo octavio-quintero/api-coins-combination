@@ -13,7 +13,7 @@ For building and running the application you need:
 
 ## Available Scripts to Run Application
 
-In the project directory, you can run:\
+In the project directory, you can run:
 
 ### `Clean previous build`
 
@@ -29,9 +29,9 @@ $ mvn clean install
 ### `Run api`
 
 $ cd target\
-$ java -jar coinscombination.api-1.0.jar\
+$ java -jar coinscombination.api-1.0.jar
 
 
-Open in your browser the below url\
+Open in your browser the below url
 [http://localhost:8080/coins](http://localhost:8080/coins) it will shows a json result with a list of preloaded coins.
 
